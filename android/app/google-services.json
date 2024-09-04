@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610779326510",
+    "project_id": "alert-app-18c9f",
+    "storage_bucket": "alert-app-18c9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610779326510:android:b3920aca19cfcc0851d7bf",
+        "android_client_info": {
+          "package_name": "com.example.alert_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCURFadj_TJAKRn2g5rPFUdbRNu1r2Wj8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
